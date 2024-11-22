@@ -1,8 +1,8 @@
 # Group Project One 
 ## Readme to be added to 
 Description:
-The Project Scope will include the data visualization and analysis of housing data for select cities in MN from the last 5 years (2018 – 2023). The cities in question will be Duluth, Rochester, and Minneapolis. These cities will also include the surrounding metropolis area. The assessment will consider exclusively Single-Family Homes for rentals and houses. Comparisons will also be made to the USA.
-The pricing of these homes to obtain the median range  is from the 35th – 65th Percentile (Middle third), (per the Zillow data extract), to avoid having outliers skew the data. The data obtained are ZHVI and ZORI
+The Project Scope will include the data visualization and analysis of housing data for select cities in MN from the last 5 years (2018 – 2023). The cities in question will be Duluth, Rochester, and Minneapolis. The assessment will consider exclusively Single-Family Homes for rentals and houses. Comparisons will also be made to the USA.
+The pricing of these homes to obtain the median range  is from the 35th – 65th Percentile (Middle third), (per the Zillow data extract), to avoid having outliers skew the data. The data obtained are ZHVI and ZORI.
 
 Dependancies to install:
 1. import matplotlib.pyplot as plt
@@ -10,13 +10,18 @@ Dependancies to install:
 
 How to run:
 Download Dependancies
-Open and runjupyter notebook "Housing.ipynb" 
+Open and run jupyter notebook "Housing.ipynb" 
 
 Sources:
-https://www.zillow.com/research/zhvi-user-guide/
-https://www.zillow.com/research/data/
-Zillo ZVHI
-Zillo ZORI
+1. https://www.zillow.com/research/zhvi-user-guide/
+2. https://www.zillow.com/research/data/
+3. Zillow ZVHI (Zillow Home Value Index)
+4. Zillow ZORI (Zillow Observed Rent Index)
+5. https://pandas.pydata.org/docs/
+6. https://matplotlib.org/stable/api/index.html
+7. ChatGPT for debugging
+8. Xpert Learning Assist
+
 
 Collaborators
 
