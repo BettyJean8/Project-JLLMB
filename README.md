@@ -1,16 +1,22 @@
 # Group Project One 
 ## Readme to be added to 
-Description......
+Description:
+The Project Scope will include the data visualization and analysis of housing data for select cities in MN from the last 5 years (2018 – 2023). The cities in question will be Duluth, Rochester, and Minneapolis. These cities will also include the surrounding metropolis area. The assessment will consider exclusively Single-Family Homes for rentals and houses. Comparisons will also be made to the USA.
+The pricing of these homes to obtain the median range  is from the 35th – 65th Percentile (Middle third), (per the Zillow data extract), to avoid having outliers skew the data. The data obtained are ZHVI and ZORI
 
-Dependancies to install.
+Dependancies to install:
 1. import matplotlib.pyplot as plt
 2. import pandas as pd
 
-How to run.....
+How to run:
+Download Dependancies
+Open and runjupyter notebook "Housing.ipynb" 
 
-
-Sources.....
-
+Sources:
+https://www.zillow.com/research/zhvi-user-guide/
+https://www.zillow.com/research/data/
+Zillo ZVHI
+Zillo ZORI
 
 Collaborators
 
